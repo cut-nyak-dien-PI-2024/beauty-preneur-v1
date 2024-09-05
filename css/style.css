@@ -12,12 +12,6 @@
     --text-dark: #e6e6fa;
   }
   
-  
-  .dark-mode {
-    background-color: var(--background-dark);
-    color: var(--text-dark);
-  }
-  
   a {
     color: var(--text-light);
     text-decoration: none;
